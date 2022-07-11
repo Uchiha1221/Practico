@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQbTVyw/BOLIVISION-HD-SANTA-CRUZ.jpg" group-title="Canales Bolivianos",BOLIVISION SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpBHD7b/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SCZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/516X7gY/BOLIVIA-TV-7-1.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.1 HD
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykVnXG0/UNITEL-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",UNITEL SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1, TvUniversitaria
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnzsQSc/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
+https://ott.streann.com/loadbalancer/services/public/channels/5ea9f2d22cdc31ce152b0090/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPq6vB7/imagen-de-perfil-02.jpg" group-title="Canales Bolivianos",CADENA A HD
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w70983598.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nLKS7g/agua-marca.png" group-title="Canales Bolivianos",PAT SC HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+#EXTINF:-1, Galicia TV Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1, Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1, HISTORY
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1, Love Nature
+https://bamus-spa-roku.amagi.tv/playlist216-lp.m3u8
+#EXTINF:-1, Discovery
+http://213.151.233.20:8000/dna-6179-tv-mobile/hls/4003v102.m3u8
+#EXTINF:-1, NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1, VE PLUS
+http://190.122.96.187:8888/http/006
+#EXTINF:-1, EURONEWS
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1, RT NOTICIAS
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1, HISPANTV HD
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1371742109_b644100_slen.m3u8
+#EXTINF:-1, TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2006060280_b1296000_sleng.m3u8
+#EXTINF:-1, FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1393751027_b1500000_slen.m3u8
+#EXTINF:-1, CARACOL
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1, TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:-1, TELE RITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1, RETRO PLUS LATINO
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w654179327.m3u8
+#EXTINF:-1, MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1, MUSIC+
+http://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1, VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1, VEVO Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1, Vevo Pop (England)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1, Edge Sport HD
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, Horse & Country TV
+http://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1, Eurosport 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:-1, FOX Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
