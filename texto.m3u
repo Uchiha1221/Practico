@@ -83,6 +83,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:-1, TELEMUNDO
 http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1, AMERICA TV
+http://bgapp.live/play/tvhd-799.php?id=5&k=blackghoooossst&file=.m3u8
 #EXTINF:-1, TELE RITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1, RETRO PLUS LATINO
