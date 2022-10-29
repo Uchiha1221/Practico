@@ -48,7 +48,7 @@ http://bgapp.live/play/tvhd-799.php?id=50&k=blackghoooossst&file=.m3u8
 #EXTINF:-1, DISCOVERY ID
 http://190.83.119.67:8000/play/a0tf/index.m3u8
 #EXTINF:-1, DISCOVERY Home and Health
-http://190.83.119.67:8000/play/a0ss/index.m3u8
+http://190.61.102.67:31589/play/a03g/index.m3u8
 #EXTINF:-1, AXN
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1, TNT Series
@@ -84,7 +84,7 @@ http://190.83.119.67:8000/play/a0ps/index.m3u8
 #EXTINF:-1, TELEMUNDO
 http://190.83.119.67:8000/play/a0q9/index.m3u8
 #EXTINF:-1, AMERICA TV
-http://bgapp.live/play/tvhd-799.php?id=5&k=blackghoooossst&file=.m3u8
+http://168.194.171.33:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://comteco.com.bo/img/upload/canales/YRTcBp.png" group-title="Undefined",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1, TELE RITMO
